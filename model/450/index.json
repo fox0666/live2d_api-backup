@@ -3,11 +3,7 @@
     "name":"450",
     "label":"450",
     "model":"450.moc",
-    "textures":[
-        "textures/0.png",
-        "textures/1.png",
-        "textures/2.png"
-    ],
+    "textures":["textures/0.png"],
     "layout":{
         "center_x": 0,
         "center_y": 0.1,
