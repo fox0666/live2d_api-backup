@@ -1,20 +1,12 @@
 {
     "models": [
-        "bilibili-live/22",
-        "bilibili-live/33",
         "KantaiCollection/murakumo",
-        "Violet",
-        "450",
-        "miku",
-        "umaru"
+        "bilibili-live/22",
+        "bilibili-live/33"
     ],
     "messages": [
-        "来自 Bilibili Live 的 22 哦 ~",
-        "来自 Bilibili Live 的 33 的说",
         "艦隊これくしょん / 叢雲(むらくも)",
-        "来自 Violet 的问候 ~",
-        "来自 450 的专属语音 ~",
-        "初音ミクです！よろしくね ~",
-        "うまるちゃんのんびりスタイル ~"
+        "来自 Bilibili Live 的 22 哦 ~💕",
+        "来自 Bilibili Live 的 33 哦 ~💖"
     ]
 }
